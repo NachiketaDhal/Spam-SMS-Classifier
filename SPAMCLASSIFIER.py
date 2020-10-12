@@ -62,29 +62,3 @@ cm = confusion_matrix(y_test, y_pred)
 
 from sklearn.metrics import accuracy_score
 accuracy_score = accuracy_score(y_test, y_pred) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
